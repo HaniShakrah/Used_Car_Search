@@ -1,6 +1,6 @@
 # Used-Car-Search
 
-Purpose of this code is to scrape vehicle information from Autotrader.com into a Pandas dataframe for easy analysis. It first takes a base url, with desired filters from the site, and loops through each page to get the first 500 records that meet set filters. For each page, using the Beautiful Soup library, it scrapes, the title, price, mileage, make, and year. The data is cleaned into a user-friendly dataframe that, from this point, can be used for any purpose.
+The purpose of this code is to scrape vehicle information from Autotrader.com into a Pandas dataframe for easy analysis. It first takes a base url, with desired filters from the site, and loops through each page to get the first 500 records that meet set filters. For each page, using the Beautiful Soup library, it scrapes, the title, price, mileage, make, and year. The data is cleaned into a user-friendly dataframe that, from this point, can be used for any purpose.
 
 I continued and performed exploratory analysis for my own personal car search, creating a function that takes in input of a max price, max mileage, and make, to help narrow down specific vehicles of interest from figure 1. 
 

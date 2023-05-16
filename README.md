@@ -8,4 +8,4 @@ Figure 1 plots all the observations by price and mileage.
 Figure 2 shows the effect of year on price and mileage.
 Figure 3 shows the lowest 15 mileages and prices, respectively, for both Honda and Toyota. 
 
-Figures are produced from data from 5/15/23, but can be tweaked and duplicated for different datasets.
+Figures are produced from data from May 2023, but can be tweaked and duplicated for different datasets.
